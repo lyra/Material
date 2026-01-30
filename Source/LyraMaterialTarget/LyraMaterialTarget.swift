@@ -1,4 +1,4 @@
 import Foundation
 
-@_exported import LyraMaterialBinary
+@_exported import LyraMaterial
 @_exported import LyraMotion
