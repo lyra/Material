@@ -15,7 +15,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/lyra/Motion.git",
-            exact: "4.0.4"
+            exact: "4.0.5"
         )
     ],
     targets: [
