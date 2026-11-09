@@ -1,1 +1,1 @@
-github "Lyra/Motion" "4.0.6"
+binary "https://raw.githubusercontent.com/lyra/Motion/4.0.6/LyraMotion.json" "4.0.6"

@@ -22,7 +22,7 @@ let package = Package(
         .binaryTarget(
             name: "LyraMaterial",
             url: "https://raw.githubusercontent.com/lyra/Material/1.0.12/LyraMaterial.xcframework.zip",
-            checksum: "8e96770fd7377348d869fc5c25c7745ce1470994848b52f13a70a2d32504add9"
+            checksum: "a00ce5bc7642988ddaba18aef3fe030f9af837604a35d45ca59afb909d215cb0"
         ),
         .target(
             name: "LyraMaterialTarget",
