@@ -1,2 +1,2 @@
-github "Lyra/Motion" >= 1.0.0
+github "Lyra/Motion" == 4.0.6
 
